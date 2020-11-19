@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi. My name is Badr Choubai.
 
-<!--
-**BadrChoubai/BadrChoubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This year I've found a lot of joy in things other than programming and haven't dedicated a lot of time to projects, opting instead to focus on school. This means building good time management habits, reading books, enjoying the outdoors and focusing on my mental health. 
 
-Here are some ideas to get you started:
+## Some fun facts
+- My personal website doesn't appear on google, hence my favorite line of markup.
+  ```html
+    <meta name="googlebot" content="noindex">
+  ```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Book's I've Learned From
+- *Antifragile: Things That Gain from Disorder* by Nassim Nicholas Taleb
+- *The Courage to be Disliked* by Ichiro Kishimi
+- *Thinking in Systems: A Primer* by Donella H. Meadows
+- *Skin in the Game: Hidden Asymmetries in Daily Life* by Nassim Nicholas Taleb
