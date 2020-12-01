@@ -11,8 +11,7 @@ This year I've found a lot of joy in things other than programming and haven't d
 - My favorite programming languages: JavaScript, Python
 
 ### Book's I've Learned From
-- *Antifragile: Things That Gain from Disorder* by Nassim Nicholas Taleb
-- *The Courage to be Disliked* by Ichiro Kishimi
 - *Thinking in Systems: A Primer* by Donella H. Meadows
 - *Skin in the Game: Hidden Asymmetries in Daily Life* by Nassim Nicholas Taleb
 - *The Plague* by Albert Camus
+- *Man's Search for Meaning* by Viktor E. Frankl
