@@ -1,6 +1,6 @@
 # Hi. My name is Badr Choubai.
 
-This year I've found a lot of joy in things other than programming and haven't dedicated a lot of time to projects, opting instead to focus on school. This means building good time management habits, reading books, enjoying the outdoors and focusing on my mental health. 
+This year I've found a lot of joy in things other than programming and haven't dedicated a lot of time to projects, opting instead to focus on school.
 
 ## Some fun facts
 - My personal website doesn't appear on google, hence my favorite line of markup.
