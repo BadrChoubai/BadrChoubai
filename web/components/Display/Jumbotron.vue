@@ -22,7 +22,7 @@ defineProps(['title'])
     #HeaderBlock {
         header {
             h1 {
-                @apply font-display font-black border-b-orange-600 border-b-4 mb-3;
+                @apply font-display text-5xl md:text-6xl lg:text-8xl font-black border-b-orange-600 border-b-4 mb-3;
             }
         }
     }

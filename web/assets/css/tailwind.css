@@ -9,7 +9,6 @@
     font-weight: 400;
   
     color-scheme: light dark;
-    background-color: #242424;
   
     font-synthesis: none;
     text-rendering: optimizeLegibility;
@@ -20,12 +19,11 @@
 
 @layer base {
     body {
-        @apply bg-gray-50;
-        @apply dark:bg-neutral-800;
-
-        @apply text-black;
-        @apply dark:text-white;
-        @apply text-2xl;
+        @apply dark:bg-neutral-800
+        text-black 
+        dark:text-white
+        text-2xl
+        m-auto;
         max-width: 2500px;
         height: 100vh;
     }
