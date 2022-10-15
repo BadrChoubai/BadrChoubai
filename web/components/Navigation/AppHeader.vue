@@ -8,9 +8,6 @@
                     <navigation-menu-link aria-label="My GitHub" to="https://www.github.com/BadrChoubai" target="_blank">
                         <icons-github class="dark:fill-white" />
                     </navigation-menu-link>
-                    <navigation-menu-link aria-label="My Resume" to="https://spectacled-porter-961.notion.site/Hi-I-m-Badr-Choubai-ee51d9f7f07640b98aee2b5c2f130e29" target="_blank">
-                        <icons-notion class="dark:fill-white" />
-                    </navigation-menu-link>
                 </div>
             </div>
             <navigation-app-menu />
