@@ -1,20 +1,15 @@
 {
-  "private": true,
+  "name": "",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "build": "nuxt build",
-    "tw-config": "npx tailwind-config-viewer",
-    "dev": "nuxt dev",
-    "dev:nuxi": "nuxi dev"
-  },
-  "devDependencies": {
-    "@nuxtjs/tailwindcss": "^5.0.4",
-    "nuxt": "^3.0.0-rc.11",
-    "sass": "^1.55.0",
-    "sass-loader": "^13.0.2"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "dependencies": {
-    "@fontsource/arvo": "^4.5.7",
-    "@fontsource/inter": "^4.5.10",
-    "@fontsource/material-icons": "^4.5.4"
+    "astro": "^2.2.1"
   }
 }
