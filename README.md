@@ -1,17 +1,13 @@
 # Hi. My name is Badr Choubai.
 
-This year I've found a lot of joy in things other than programming and haven't dedicated a lot of time to projects, opting instead to focus on school.
+[![](https://badgers.space/badge/uses/Framework%20Laptop%2013/orange)](https://frame.work/)
+[![](https://badgers.space/badge/meetup/Active%20After%20Work/red)](https://www.meetup.com/active-after-work/)
 
-## Quick Bits
-- My personal website doesn't appear on google, hence my favorite line of markup.
-  ```html
-    <meta name="googlebot" content="noindex">
-  ```
-- My favorite tools: IntelliJ & WebStorm, Alacritty, `nvim`, `tmux`, `brew`
-- My favorite programming languages: JavaScript and Python
+My name is Badr Choubai. I'm an early-career software developer, interested in solving problems—nothing specific. Outside of work I enjoy: being active and outdoors, enjoying the city I live in. I'm opinionated about things and I enjoy watching the World, even if I can't predict the future.
 
-### Book's I've Learned From
-- *Thinking in Systems: A Primer* by Donella H. Meadows
+## Books I've Learned From
+
+- *Reclaiming Conversation* by Sherry Turkle
 - *Skin in the Game: Hidden Asymmetries in Daily Life* by Nassim Nicholas Taleb
-- *The Plague* by Albert Camus
-- *Man's Search for Meaning* by Viktor E. Frankl
+- *The Happiness Hypothesis* by Jonathan Haidt
+- *Man's Search for Meaning* by Viktor E. Frank
