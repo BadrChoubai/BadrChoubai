@@ -1,99 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <meta name="viewport" content="width=device-width">
-    <meta name="generator" content="Astro v2.2.1">
-    <title>Badr Choubai</title>
-    <style>
-        :root {
-            --bg-dark: #000000;
-            --bg-light: #e3e3e3;
-            --text-accented: #fb923c;
-            --text: #ffffff;
-            --root-font: "Inter", sans-serif;
-        }
+  <meta charset="utf-8">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <meta name="viewport" content="width=device-width">
+  <meta name="generator" content="Astro v2.2.1">
+  <title>Badr Choubai</title>
+  <style>
+    :root {
+      --bg-dark: #000000;
+      --bg-light: #e3e3e3;
+      --text-accented: #fb923c;
+      --text: #ffffff;
+      --root-font: "Inter", sans-serif;
+    }
 
-        body {
-            background-color: var(--bg-dark);
-            color: var(--text);
-            font-family: var(--root-font);
-            font-size: calc(10px + .33vw);
-            -webkit-font-smoothing: antialiased;
-        }
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text);
+      font-family: var(--root-font);
+      font-size: calc(10px + .33vw);
+      -webkit-font-smoothing: antialiased;
+    }
 
-        main {
-            margin:0 auto;
-            width:80%;
-        }
+    main {
+      margin: 0 auto;
+      width: 80%;
+    }
 
-        h1 {
-            font-size:4.5em;
-            font-weight:500;
-            margin-bottom:0;
-        }
+    h1 {
+      font-size: 4.5em;
+      margin-bottom: 0;
+    }
 
-        p {
-            font-size:1.6em;
-            font-weight:300;
-            line-height:1.4;
-            max-width:32em;
-        }
+    p {
+      font-size: 1.8em;
+      line-height: 1.4;
+      max-width: 32em;
+    }
 
-        a {
-            white-space:nowrap;
-        }
+    a {
+      white-space: nowrap;
+    }
 
-        #ButtonBlock {
-            display:flex;
-            flex-wrap:wrap;
-            gap:12px;
-        }
+    #ButtonBlock {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
 
-        .accented {
-            color:var(--text-accented)
-        }
+    .btn {
+      padding: 12px;
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+    }
 
-        .btn {
-            padding:12px;
-            color:var(--text);
-            text-decoration:none;
-            font-weight: 700;
-        }
-
-        .opaque {
-            background-color:#fb923c66;
-        }
-    </style>
+    .opaque {
+      background-color: #fb923c66;
+    }
+  </style>
 </head>
 <body>
-<main id="main">
-    <section>
-        <article>
-            <header>
-                <h1>Hello :wave:</h1>
-            </header>
-            <p>
-                My name is Badr Choubai. I'm an early-career software
-                developer, interested in solving problems&mdash;Nothing
-                specific yet.
-            </p>
-            <p>
-						<span class="accented">Doing what I love to do, to do more of what I love:
-						</span>being active and outdoors, enjoying the city I
-                live in.
-            </p>
-            <p>
-                I'm opinionated about things and I enjoy watching the
-                World, even if I can't predict the future.
-            </p>
-        </article>
-        <div id="ButtonBlock">
-            <a class="btn opaque">GitHub</a>
-            <a class="btn opaque">Active After Work</a>
-        </div>
-    </section>
+<main>
+  <section>
+    <article>
+      <header>
+        <h1>
+          <strong>Hello</strong>
+        </h1>
+      </header>
+      <p>
+        My name is Badr Choubai. I'm an early-career software
+        developer, interested in solving problems&mdash;Nothing
+        specific yet.
+      </p>
+      <p>
+        Outside of work, I enjoy: drinking coffee, being active and outdoors, enjoying the city I live in,
+        attending meetups and
+        occasionally hosting them and reading books.
+      </p>
+      <p>
+        I'm opinionated about things and I enjoy watching the
+        World, even if I can't predict the future.
+      </p>
+    </article>
+    <div id="ButtonBlock">
+      <a
+        href="https://www.github.com/BadrChoubai"
+        class="btn opaque"
+      >GitHub</a>
+      <a
+        href="https://www.meetup.com/active-after-work"
+        class="btn opaque">Active After Work</a>
+    </div>
+  </section>
 </main>
 </body>
 </html>
