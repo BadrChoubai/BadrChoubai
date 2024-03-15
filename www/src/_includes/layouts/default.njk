@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge"/>
 	<meta name="description" content="Badr Choubai's place on the internet">
-	<title>Badr Choubai</title>
+	<title>{{ title }}</title>
 	<style>
 		:root {
 			--background-color-theme-dark: #1d1d1d;
@@ -116,32 +116,6 @@
 	</style>
 </head>
 <body>
-<header>
-	<hgroup>
-		<h1>Badr Choubai</h1>
-		<p>Solving problems, nothing in particular.</p>
-	</hgroup>
-	<nav role="navigation">
-		<ul>
-			<li>
-				<a href="https://www.github.com/BadrChoubai">GitHub</a>
-			</li>
-			<li>
-				<a href="https://www.linkedin.com/in/badr-choubai/">LinkedIn</a>
-			</li>
-		</ul>
-	</nav>
-</header>
-
-<main id="content">
-	<section>
-		<article>
-			<h2>Posts</h2>
-			<p>
-				...
-			</p>
-		</article>
-	</section>
-</main>
+{{ content | safe }}
 </body>
 </html>
