@@ -52,21 +52,20 @@ ul {
 	display: flex;
 	margin: 0;
 	padding: 0;
-	gap: 9px;
+	gap: 18px;
 }
 
 section {
 	margin-top: 1rem;
 }
 
-a {
+nav > ul li a {
 	text-decoration: none;
-	white-space: nowrap;
 	color: var(--color-text);
 	position: relative;
 }
 
-a:after {
+nav > ul li a:after {
 	content: "";
 	position: absolute;
 	z-index: -1;
@@ -77,6 +76,11 @@ a:after {
 	transition: top 200ms cubic-bezier(0, 0.8, 0.13, 1);
 	background-color: rgba(247, 114, 69, 0.5);
 }
-a:hover:after {
+
+nav > ul li a:hover:after {
 	top: 0;
+}
+
+ul > li a {
+	color: var(--color-text)
 }
