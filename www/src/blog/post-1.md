@@ -1,7 +1,6 @@
 ---
-title: I Lost My First Job as a Software Engineer
+title: Meetings That I Will Miss 
 url: /blog/post-1
-date: git Created
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At tempor commodo ullamcorper a lacus. Ac tortor vitae purus faucibus ornare. Pretium fusce id velit ut tortor pretium viverra suspendisse. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Risus feugiat in ante metus dictum at tempor commodo ullamcorper. Diam sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Maecenas pharetra convallis posuere morbi leo urna molestie. Purus viverra accumsan in nisl. Enim facilisis gravida neque convallis a cras. Massa sed elementum tempus egestas sed sed risus. Risus feugiat in ante metus dictum. Dictum at tempor commodo ullamcorper a. Tortor posuere ac ut consequat semper. Vulputate ut pharetra sit amet aliquam. Et malesuada fames ac turpis egestas. Cras sed felis eget velit aliquet sagittis id consectetur. Amet consectetur adipiscing elit pellentesque habitant morbi tristique.
