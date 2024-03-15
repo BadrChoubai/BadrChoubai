@@ -3,7 +3,6 @@ layout: layouts/default.njk
 title: Badr Choubai - Boulder, US
 date: git Last Modified
 ---
-
 <header>
 	<hgroup>
 		<h1>Badr Choubai</h1>
@@ -26,9 +25,10 @@ date: git Last Modified
 		<article>
 			<h2>Posts</h2>
 			<ul>
-				{%- for post in collections.post -%}
+				{%- for post in collections.posts -%}
 					{% post post.data %}
 				{%- endfor -%}
-			</ul>		</article>
+			</ul>
+		</article>
 	</section>
 </main>

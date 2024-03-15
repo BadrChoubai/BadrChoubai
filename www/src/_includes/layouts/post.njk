@@ -1,0 +1,15 @@
+---
+layout: layouts/default.njk
+---
+<section>
+	<hgroup>
+		<h1>{{ title }}</h1>
+		{% if subtitle %}
+			<p>{{ subtitle }}</p>
+		{% endif %}
+	</hgroup>
+
+	<article>
+		{{ content | safe }}
+	</article>
+</section>
