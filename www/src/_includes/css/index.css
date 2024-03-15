@@ -1,5 +1,6 @@
 :root {
-	--system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	--system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+		"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
 	--background-color-theme-dark: #1d1d1d;
 	--color-theme-dark: #fff;
@@ -33,26 +34,29 @@ body {
 	color: var(--color-text);
 	background-color: var(--color-background);
 	min-height: 100vh;
-	transition: color 0.5s,
-	background-color 0.5s;
+	transition:
+		color 0.5s,
+		background-color 0.5s;
 	line-height: 1.6;
 	font-family: var(--system-ui);
-	font-size: 15px;
-	padding: 5vh 7vw;
+	font-size: 18px;
+	padding: 5vh;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
-	font-weight: 500;
-	margin-bottom: 0;
+nav > ul,
+ul {
+	list-style-type: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	gap: 9px;
 }
 
-p {
-	font-weight: 300;
-	line-height: 1.4;
-	max-width: 28em;
+section {
+	margin-top: 1rem;
 }
 
 a {
@@ -71,28 +75,8 @@ a:after {
 	right: -0.1em;
 	bottom: 0;
 	transition: top 200ms cubic-bezier(0, 0.8, 0.13, 1);
-	background-color: rgba(192, 119, 79, 0.5);
+	background-color: rgba(247, 114, 69, 0.5);
 }
-
 a:hover:after {
 	top: 0;
-}
-
-header {
-	max-width: 600px;
-}
-
-nav[role="navigation"] ul {
-	list-style-type: none;
-	display: flex;
-	flex-direction: row;
-	padding: 0;
-}
-
-nav[role="navigation"] ul > li {
-	margin-right: 12px;
-}
-
-section {
-	margin-top: 2rem;
 }
