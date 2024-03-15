@@ -6,5 +6,5 @@
 
 ## Projects
 
-- [BadrChoubai](https://github.com/BadrChoubai/BadrChoubai)
+- [www](https://github.com/BadrChoubai/BadrChoubai/www)
   - My personal website, built using [11ty](https://11ty.dev) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
