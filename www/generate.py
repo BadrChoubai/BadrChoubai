@@ -11,6 +11,8 @@ def create_blog_post(title, content):
     # Write content to file
     with open(os.path.join("./src/blog", filename), "w") as f:
         f.write("---\n")
+        f.write(f"date: {date_str}\n")
+        f.write("draft: true\n")
         f.write(f"title: {title}\n")
         f.write(f"url: /blog/{filename.replace('.md', '')}\n")
         f.write("---\n\n")
