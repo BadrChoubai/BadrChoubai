@@ -4,10 +4,6 @@
 	--color-background--contrast: var(--color-background) 200%;
 }
 
-.post {
-
-}
-
 .post__article {
 	display: flex;
 	flex-direction: column;
@@ -21,7 +17,7 @@ h1 {
 blockquote {
 	padding: 18px;
 	font-size: 1.5rem;
-	box-shadow: 0 .3rem .8rem rgba(0,0,0,.12);
+	box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.12);
 	background: var(--color-background--contrast);
 	border-left: solid 8px var(--color-accent);
 }

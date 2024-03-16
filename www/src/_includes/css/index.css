@@ -8,6 +8,7 @@
 	--background-color-theme-light: #ffff;
 	--color-theme-light: #121314;
 
+	--color-accent--shadow: rgba(247, 114, 69, 0.5);
 }
 
 /* semantic color variables for this project */
@@ -63,6 +64,11 @@ nav > ul li a {
 	text-decoration: none;
 	color: var(--color-text);
 	position: relative;
+}
+
+ul li a {
+	color: var(--color-text);
+	text-decoration: underline;
 }
 
 nav > ul li a:after {
