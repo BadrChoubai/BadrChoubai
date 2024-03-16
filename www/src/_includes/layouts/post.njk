@@ -1,15 +1,10 @@
 ---
 layout: layouts/default.njk
 ---
-<section>
-	<hgroup>
-		<h1>{{ title }}</h1>
-		{% if subtitle %}
-			<p>{{ subtitle }}</p>
-		{% endif %}
-	</hgroup>
+<section class="post">
+	<article class="post__article">
+		<h1 class="post__article__title">{{ title }}</h1>
 
-	<article>
 		{{ content | safe }}
 	</article>
 </section>

@@ -1,13 +1,15 @@
 ---
-title: Meetings That I Will Miss 
+title: Meetings That I Will Miss
 url: /blog/post-1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At tempor commodo ullamcorper a lacus. Ac tortor vitae purus faucibus ornare. Pretium fusce id velit ut tortor pretium viverra suspendisse. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Risus feugiat in ante metus dictum at tempor commodo ullamcorper. Diam sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Maecenas pharetra convallis posuere morbi leo urna molestie. Purus viverra accumsan in nisl. Enim facilisis gravida neque convallis a cras. Massa sed elementum tempus egestas sed sed risus. Risus feugiat in ante metus dictum. Dictum at tempor commodo ullamcorper a. Tortor posuere ac ut consequat semper. Vulputate ut pharetra sit amet aliquam. Et malesuada fames ac turpis egestas. Cras sed felis eget velit aliquet sagittis id consectetur. Amet consectetur adipiscing elit pellentesque habitant morbi tristique.
+This is an article meant for testing CSS layout during development of my blog and is unrepresentative (to an extent) of how I really feel about work meetings. At least, while I'm searching for work...
 
 ## 1:1
 
 Scelerisque viverra mauris in aliquam. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Enim eu turpis egestas pretium aenean. Convallis tellus id interdum velit. Sit amet commodo nulla facilisi. Quisque egestas diam in arcu cursus euismod. Pharetra pharetra massa massa ultricies mi quis. Quis auctor elit sed vulputate. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Mattis aliquam faucibus purus in massa tempor. Ut consequat semper viverra nam.
+
+> The person who misses meetings, doesn't miss much. Honestly!
 
 ## Standup
 
@@ -16,6 +18,11 @@ Porta non pulvinar neque laoreet suspendisse interdum consectetur libero. Blandi
 ## Retrospective
 
 Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Lacus sed viverra tellus in hac habitasse. Quam id leo in vitae turpis. Mi quis hendrerit dolor magna eget est lorem. Volutpat diam ut venenatis tellus in. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Arcu risus quis varius quam quisque id diam. Nibh cras pulvinar mattis nunc sed blandit libero volutpat sed. In ornare quam viverra orci sagittis eu. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget. Rhoncus dolor purus non enim. Pellentesque dignissim enim sit amet venenatis. Aliquet nibh praesent tristique magna sit. Facilisi cras fermentum odio eu. Eu tincidunt tortor aliquam nulla facilisi. Quis eleifend quam adipiscing vitae proin sagittis nisl. Convallis aenean et tortor at risus. Netus et malesuada fames ac turpis egestas.
+
+- Questions that are asked during this meeting:
+  - What Went Well?
+  - Areas of Improvement?
+  - Action Items?
 
 ## External Sprint Review
 

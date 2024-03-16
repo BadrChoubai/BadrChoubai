@@ -8,6 +8,9 @@
 	<title>{{ title }}</title>
 	<style>
 		{% include "css/index.css" %}
+		{% if css == "post.css" %}
+		{% include "css/post.css" %}
+		{% endif %}
 	</style>
 </head>
 <body>
