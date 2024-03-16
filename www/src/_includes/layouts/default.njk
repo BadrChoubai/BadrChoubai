@@ -8,7 +8,13 @@
 	<title>{{ title }}</title>
 	<style>
 		{% include "css/index.css" %}
+		{% if css == "post.css" %}
+		{% include "css/post.css" %}
+		{% endif %}
 	</style>
+	{% if css == "post.css" %}
+		<link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet" />
+	{% endif %}
 </head>
 <body>
 {{ content | safe }}
