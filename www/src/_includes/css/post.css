@@ -1,7 +1,6 @@
 :root {
 	--color-accent: rgba(247, 114, 69);
 	--color-accent--shadow: rgba(247, 114, 69, 0.5);
-	--color-background--contrast: var(--color-background) 200%;
 }
 
 .post__article {
@@ -11,13 +10,18 @@
 }
 
 h1 {
+	padding-top: 1rem;
 	font-size: 3.5rem;
+	line-height: 4rem;
+}
+
+h2 a {
+	color: inherit;
 }
 
 blockquote {
 	padding: 18px;
 	font-size: 1.5rem;
 	box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.12);
-	background: var(--color-background--contrast);
 	border-left: solid 8px var(--color-accent);
 }
