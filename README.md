@@ -8,6 +8,7 @@
 
 |Name|Description|Repo|Deployment Preview|
 |:-|:-|:-:|-:|
+|docker-kubernetes-course|Source code and notes for online Docker and Kubernetes course|[GitHub](https://github.com/BadrChoubai/docker-kubernetes-course)|N/A|
 |www|My personal website, built using [11ty](https://11ty.dev) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/)|[GitHub](https://www.github.com/BadrChoubai/www)|[https://badrchoubai.dev](https://www.badrchoubai.dev)|
 |Services-infrastructure|This project is a sandbox for me to test and play with Docker and Apache APISIX|[GitHub](https://github.com/BadrChoubai/Services-infrastructure)|N/A|
 |Services|This repository holds the individual services that are ingested by [Services-infrastructure](https://github.com/BadrChoubai/Services-infrastrcture)|[GitHub](https://github.com/BadrChoubai/Services)|N/A|
