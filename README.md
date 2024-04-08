@@ -8,6 +8,7 @@
 
 |Name|Description|Repo|Deployment Preview|
 |:-|:-|:-:|-:|
+|terraform-course|Source code and notes for online Terraform course|[GitHub](https://github.com/BadrChoubai/terraform-course)|https://badrchoubai.github.io/terraform-course/|
 |docker-kubernetes-course|Source code and notes for online Docker and Kubernetes course|[GitHub](https://github.com/BadrChoubai/docker-kubernetes-course)|N/A|
 |www|My personal website, built using [11ty](https://11ty.dev) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/)|[GitHub](https://www.github.com/BadrChoubai/www)|[https://badrchoubai.dev](https://www.badrchoubai.dev)|
 |quotes-printer|A website I built to display a list of quotes I like.|[GitHub](https://github.com/BadrChoubai/quotes-printer)|[https://quote-printer.pages.dev/](https://quote-printer.pages.dev/)|
