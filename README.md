@@ -1,8 +1,8 @@
 # Badr Choubai 🇲🇦
 
-> Solving problems, nothing in particular
+> Solving problems, nothing in particular.
 
-[![](https://badgers.space/badge/uses/Framework%20Laptop%2013/orange)](https://frame.work/)
+[![](https://badgers.space/badge/Coding%20On/Framework%20Laptop%2013/orange)](https://frame.work/)
 
 ## Projects
 
