@@ -8,7 +8,7 @@
 
 |Name|Description|Repo|Deployment Preview|
 |:-|:-|:-:|-:|
-|high-performance sqlite course notes|Playgrounds and notes for High Performance SQLite course|[GitHub](https://github.com/BadrChoubai/high-performance-sqlite/)|https://badrchoubai.github.io/high-performance-sqlite/|
+|high-performance sqlite course notes|Playgrounds and notes for High Performance SQLite course|[GitHub](https://github.com/BadrChoubai/high-performance-sqlite/)||
 |terraform-course|Source code and notes for online Terraform course|[GitHub](https://github.com/BadrChoubai/terraform-course)|https://badrchoubai.github.io/terraform-course/|
 |docker-kubernetes-course|Source code and notes for online Docker and Kubernetes course|[GitHub](https://github.com/BadrChoubai/docker-kubernetes-course)|N/A|
 |www|My personal website, built using [11ty](https://11ty.dev) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/)|[GitHub](https://www.github.com/BadrChoubai/www)|[https://badrchoubai.dev](https://www.badrchoubai.dev)|
