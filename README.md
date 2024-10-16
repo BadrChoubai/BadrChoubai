@@ -1,7 +1,7 @@
 # Badr Choubai
 
 [My Resume](./RESUME.md) |
-[GitHub](https://wwww.github.com/BadrChoubai) |
+[GitHub](https://www.github.com/BadrChoubai) |
 [LinkedIn](https://www.linkedin.com/in/BadrChoubai)
 
 > Solving problems, nothing in particular.
