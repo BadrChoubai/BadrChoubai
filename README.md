@@ -1,8 +1,14 @@
 # Badr Choubai
 
+[My Resume](./RESUME.md) |
+[GitHub](https://wwww.github.com/BadrChoubai) |
+[LinkedIn](https://www.linkedin.com/in/BadrChoubai)
+
 > Solving problems, nothing in particular.
 
 [![](https://badgers.space/badge/uses/Framework%20Laptop%2013/orange)](https://frame.work/)
+
+---
 
 ## Projects
 
