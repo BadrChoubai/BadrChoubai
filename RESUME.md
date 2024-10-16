@@ -1,58 +1,42 @@
 # Badr Choubai
 
-I have expertise in C#/.NET, Go, and JavaScript, paired with a strong background in cloud technologies,
-containerization, and database management. A proven track record in developing and maintaining integration APIs and web
-management systems, with excellent written and verbal communication skills.
+>  Early-career Software Engineer with 3 Years of Experience in Developing APIs, Microservices Architectures, and Cloud Infrastructure Solutions
+
+Software Engineer with 3 years of experience in C\#/.NET, Go, and JavaScript, specializing in API development, cloud technologies, and database management. Proven track record in delivering scalable integration APIs and web management systems. Strong written and verbal communicator, skilled in agile methodologies and collaborative environments.
 
 ## **Technical Proficiency**
 
-- Languages: C#/.NET, Go, Python, JavaScript/TypeScript
-- Version Control: Git, Azure DevOps, GitHub
-- Containerization: Docker/Kubernetes
-- Database Technologies: Azure CosmosDB, Microsoft SQL Server, MySQL, SQLite
-- Cloud Technologies: Azure, Cloudflare, Terraform
-- Testing Frameworks: xUnit, Jest, Postman
+* **Programming Languages**: C\#/.NET, Go, JavaScript/TypeScript, Python  
+* **Cloud & Infrastructure**: Azure, Terraform, Cloudflare, Docker/Kubernetes  
+* **Databases**: Azure CosmosDB, Microsoft SQL Server, MySQL, SQLite  
+* **Version Control & CI/CD**: Git, Azure DevOps, GitHub
 
-## KEY SKILLS
+## **KEY SKILLS**
 
-Continuous Integration, Continuous Delivery, Authentication, Authorization, Version Control, Containerization,
-Infrastructure Management, Database Management, API Design Principles,   
-API Testing, Software Testing (Unit, Integration, Performance, Contract, API), Multi-Tenancy  
-Object-Oriented Programming, Software Development Life Cycle (SDLC) Management
+Continuous Integration, Continuous Delivery, Authentication, Authorization, Version Control, Containerization, Infrastructure Management, Database Management, API Design Principles, API Testing, Software Testing (Unit, Integration, Performance, Contract, API), Software Architecture, Object-Oriented Programming, Software Development Life Cycle (SDLC) Management
 
-## PROFESSIONAL EXPERIENCE
+## **PROFESSIONAL EXPERIENCE**
 
-###  Beeline, Denver, CO - May 2022–March 2024
+### **Engineer 1 / Software Engineering Intern      	May 2022 – March 2024**
 
-- **Engineer 1 / Software Engineering Intern**
+### **Beeline, Denver, CO**
 
-    - **Promoted from Intern to Engineer 1** after gaining foundational experience in Agile Lifecycle/Methodologies,
-      actively participating in sprints to address complex challenges, and demonstrating proficiency in designing,
-      developing, and delivering key features while gaining hands-on experience with full-stack development.
+* **Promoted from Intern to Engineer 1** after building a solid foundation in agile methodologies and actively participating in sprints to tackle complex challenges. Demonstrated proficiency in designing, developing, and delivering key features, gaining hands-on full-stack development experience.
 
-    - Designed and developed an Identity and Access Management Portal in Node.js and Vue 3 during internship, facilitating
-      Beeline customers' adoption of API suites planned for future development and enabling a smooth transition to upgraded
-      security infrastructure.
+* Enhanced API suite adoption and security infrastructure by refactoring and optimizing an Identity and Access Management Portal in Node.js and Vue. This refactoring effort improved system performance, streamlined user access, and paved the way for future API expansion.
 
-    - Collaborated with a cross-functional team to design and implement a centralized API Gateway in C\#/.NET for managing
-      microservice communications. Developed and integrated features such as rate limiting, authentication/authorization (
-      e.g., OAuth2), and request/response transformation, enhancing security and scalability across all APIs.
+* Collaborated with a cross-functional team to design and implement a centralized API Gateway in C\#/.NET for managing microservice communications. Developed and integrated features such as rate limiting, authentication/authorization (e.g., OAuth2), and request/response transformation, enhancing security and scalability across all APIs.
 
-    - Partnered with product managers and steady-state integration teams to prioritize new features and enhancement
-      projects, gathering and leveraging product feedback to ensure development aligned with customer needs.
+* Partnered with product managers and steady-state integration teams to prioritize new features and enhancement projects, gathering and leveraging product feedback to ensure development aligned with customer needs.
 
+### **Content Migration Assistant	March 2021– April 2022**
 
-### Metropolitan State University of Denver, Denver, CO - March 2021-April 2022
+### **Metropolitan State University of Denver, Denver, CO**
 
-- **Content Migration Assistant**
+* Increased website accessibility and improved user experience by migrating 2000+ web pages from a legacy CMS to WordPress, applying ADA compliance standards to ensure inclusivity.
 
-    - Migrated 2000+ web pages from Terminalfour, a legacy academic content management system, to WordPress.
+* Created instructional videos and written tutorial documentation for creating content in WordPress.
 
-    - Applied ADA compliance principles, managed web design, search-engine optimization, copywriting, and produced technical
-      and marketing content.
+## **EDUCATION** 
 
-    - Created instructional videos and written tutorial documentation for creating content in WordPress.
-
-## EDUCATION
-
-- **B.Sc, Computer Science,** Metropolitan State University of Denver
+* **Bachelor of Science, Computer Science,** Metropolitan State University of Denver
