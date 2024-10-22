@@ -1,6 +1,5 @@
 # Badr Choubai
 
-[My Resume](./RESUME.pdf) |
 [GitHub](https://www.github.com/BadrChoubai) |
 [LinkedIn](https://www.linkedin.com/in/BadrChoubai)
 
