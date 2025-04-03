@@ -16,7 +16,7 @@ Outside of coding, I stay active—whether it's running, hiking, or the occasion
 **Some opinions I have:**
 
 - I'm not a fan of working remotely, I think it's lonely and makes relationships feel transactional.
-- We should tax the rich. Financially, but, Socially as well—they should feel pressured to take better actions.
+- We should tax the rich—financially and socially. They should feel the pressure to act more responsibly.
 
 ---
 
