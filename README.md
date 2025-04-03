@@ -9,9 +9,14 @@
 [![](https://badgers.space/badge/Laptop/Framework%20Laptop%2013/orange)](https://frame.work/)
 ![](https://badgers.space/badge/Shoes/Brooks%20Adrenaline%20GTS-23/cyan)
 
-I'm a software engineer from Aurora, CO, passionate about building and learning. Lately, I’ve been expanding my skill set by learning Go, diving into Docker and Kubernetes, and working on personal projects.
+I'm a software engineer from Aurora, Colorado, passionate about building and learning. Lately, I’ve been expanding my skill set by learning Go, diving into Docker and Kubernetes, and working on personal projects.
 
-Outside of coding, I stay active—whether it's running, hiking, or the occasional climbing session. I've grown to enjoy reading a lot. What I love most though is meeting up with friends, listening to music, and watching TV or Movies.
+Outside of coding, I stay active—whether it's running, hiking, or the occasional climbing session. When I'm bored I like to read, and sometimes I journal. What I love most though is being with friends and family, the ones who remind me of my _Why_.
+
+**Some opinions I have:**
+
+- I'm not a fan of working remotely, I think it's lonely and makes relationships feel transactional.
+- We should tax the rich. Financially, but, Socially as well—they should feel pressured to take better actions.
 
 ---
 
