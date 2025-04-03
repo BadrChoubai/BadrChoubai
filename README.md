@@ -1,6 +1,6 @@
 # Badr Choubai
 
-> “A changing thing must give up some property and acquire the opposite property—What struggles with itself becomes committed to itself [1]
+> “A changing thing must give up some property and acquire the opposite property—What struggles with itself becomes committed to itself [^1]
 
 [Resumé](https://www.badrchoubai.dev/resume.pdf) |
 [GitHub](https://www.github.com/BadrChoubai) |
@@ -22,4 +22,4 @@
 
 ---
 
-[1] Karl Popper, _The Open Society and Its Enemies_
+[^1]: Karl Popper, _The Open Society and Its Enemies_
