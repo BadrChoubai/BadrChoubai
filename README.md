@@ -6,7 +6,8 @@
 [GitHub](https://www.github.com/BadrChoubai) |
 [LinkedIn](https://www.linkedin.com/in/BadrChoubai)
 
-[![](https://badgers.space/badge/uses/Framework%20Laptop%2013/orange)](https://frame.work/)
+[![](https://badgers.space/badge/Laptop/Framework%20Laptop%2013/orange)](https://frame.work/)
+![](https://badgers.space/badge/Shoes/Brooks%20Adrenaline%20GTS-23/cyan)
 
 ---
 
