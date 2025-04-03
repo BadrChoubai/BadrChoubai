@@ -1,7 +1,6 @@
 # Badr Choubai
 
-> “A changing thing must give up some property and acquire the opposite property—What struggles with itself becomes committed to itself
-> — Karl Popper, _The Open Society and Its Enemies_
+> “A changing thing must give up some property and acquire the opposite property—What struggles with itself becomes committed to itself [1]
 
 [Resumé](https://www.badrchoubai.dev/resume.pdf) |
 [GitHub](https://www.github.com/BadrChoubai) |
@@ -20,3 +19,7 @@
 | high-performance-sqlite-notes | Playgrounds and notes for High Performance SQLite course                                                                  | [source](https://github.com/BadrChoubai/high-performance-sqlite-notes) |
 | docker-kubernetes-notes       | Source code and notes for online Docker and Kubernetes course                                                             | [source](https://github.com/BadrChoubai/docker-kubernetes-course)      |
 | terraform-notes               | Source code and notes for online Terraform course                                                                         | [source](https://github.com/BadrChoubai/terraform-notes)               |
+
+---
+
+[1] Karl Popper, _The Open Society and Its Enemies_
