@@ -9,14 +9,20 @@
 [![](https://badgers.space/badge/Laptop/Framework%20Laptop%2013/orange)](https://frame.work/)
 ![](https://badgers.space/badge/Shoes/Brooks%20Adrenaline%20GTS-23/cyan)
 
-I'm a software engineer from Aurora, Colorado, passionate about building and learning. Lately, I’ve been expanding my skill set by learning Go, diving into Docker and Kubernetes, and working on personal projects.
+---
 
-Outside of coding, I stay active—whether it's running, hiking, or the occasional climbing session. When I'm bored I like to read, and sometimes I journal. What I love most though is being with friends and family, the ones who remind me of my _Why_.
+I'm a Moroccan-American software engineer from Aurora, Colorado. My name—Badr (بدر)—means "The Full Moon" in Arabic.
+I take pride in it. In becoming a professional engineer, I've found that I really enjoy learning new things and having
+to struggle through a problem to solve it.
 
-**Some opinions I have:**
+Lately, I've been starting to learn Go, developing small applications with it.
+Along with continuing to grow my knowledge of Docker and Kubernetes.
 
-- I'm not a fan of working remotely, I think it's lonely and makes relationships feel transactional.
-- We should tax the rich—financially and socially. They should feel the pressure to act more responsibly.
+When I'm not writing code, I like to drink coffee, read a book, and hang out
+with friends. When I need to clear my head, I go for a run or listen to music.
+For about two years, I've been a running much more seriously and started to sign up for
+more events. This year, I'll be running my first last-man standing run, in
+Ouray, Colorado. When I can, I'd like to run the Marrakech Marathon.
 
 ---
 
