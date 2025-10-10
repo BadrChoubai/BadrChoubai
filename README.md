@@ -29,4 +29,12 @@ growth, and I'm excited about the opportunity to apply my skills in a new, chall
 
 ---
 
+## Scores
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0U8E4QhzF9Pnbx6uP4jiK5?utm_source=generator" width="50%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5MetYlldpBBjFTcE8WAtjR?utm_source=generator" width="50%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4s72AlzkbvuZfwFl6ob3Il?utm_source=generator" width="50%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
 [^1]: Karl Popper, _The Open Society and Its Enemies_
