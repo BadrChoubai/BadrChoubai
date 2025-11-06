@@ -19,6 +19,7 @@ I'm a Moroccan-American software engineer from Aurora, Colorado. My name—Badr 
 | :---------------------- | :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
 | CS-Resources            | A README file providing learning resources for anyone interested in learning about Computer Science/Software Engineering | [source](https://www.github.com/BadrChoubai/CS-Resources)         |
 | docker-kubernetes-notes | Source code and notes for online Docker and Kubernetes course                                                            | [source](https://github.com/BadrChoubai/docker-kubernetes-course) |
+| buddy.config            | A cli I built to manage my development environment                                                                       | [source](https://github.com/BadrChoubai/buddy.config)             |
 
 ---
 
