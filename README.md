@@ -3,7 +3,7 @@
 > “A changing thing must give up some property and acquire the opposite property—What struggles with itself becomes
 > committed to itself" [^1]
 
-[GitHub](https://www.github.com/BadrChoubai) | [LinkedIn](https://www.linkedin.com/in/BadrChoubai)
+[GitHub](https://www.github.com/BadrChoubai) | [LinkedIn](https://www.linkedin.com/in/BadrChoubai) | [Resume](resume/README.md)
 
 [![](https://badgers.space/badge/Laptop/Framework%20Laptop%2013/orange)](https://frame.work/)
 
