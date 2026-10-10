@@ -34,11 +34,10 @@ March 2021 – May 2022
 
 ## Projects
 
-### [badrchoubai.dev](https://badrchoubai.dev) | *Personal Website*
-Source: [github.com/BadrChoubai/www](https://github.com/BadrChoubai/www)
+### [badrchoubai.dev](https://badrchoubai.dev) | *Personal Websites*
+Source: [github.com/BadrChoubai/badrchoubai.dev](https://github.com/BadrChoubai/badrchoubai.dev)
 
-- Designed and built a portfolio and blog focused on cloud and backend engineering using Astro and TypeScript, deployed globally on Cloudflare Workers
-- Organized content with typed content collections, reusable components and tag-filtered post listings, with an auto-generated sitemap for search indexing
+- Consolidated three standalone sites (portfolio, bookshelf and a print-formatting tool) into one npm-workspaces monorepo with a shared Astro UI package, so header, footer and styles change across every site from one place
 
 ## Education
 
@@ -51,6 +50,6 @@ Relevant Coursework: Software Development Methods and Tools, Networking and Dist
 
 ## Skills & Capabilities
 
-**Technical:** REST API development (C#, ASP.NET Core) · Docker and containerized microservices · CI/CD and automated testing (Azure, xUnit) · SQL and relational databases · TypeScript / JavaScript · AI-assisted development (Claude Code), applied selectively
+**Technical:** REST API development (C#, ASP.NET Core) · Docker and containerized microservices · CI/CD and automated testing (Azure, xUnit) · SQL and relational databases · TypeScript / JavaScript · Astro and Cloudflare Workers · AI-assisted development (Claude Code), applied selectively
 
 **Soft Skills:** End-to-end ownership · Cross-functional collaboration · Clear written communication
