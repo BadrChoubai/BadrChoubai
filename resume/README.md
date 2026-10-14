@@ -1,56 +1,47 @@
 # Badr Choubai
 
-Denver, CO | [github.com/BadrChoubai](https://github.com/BadrChoubai)
+[github.com/BadrChoubai](https://github.com/BadrChoubai) | [badrchoubai.dev](https://badrchoubai.dev)
 
 📄 **[Download PDF](Badr_Choubai_Resume.pdf)**
 
 ## Summary
 
-Computer Science student at MSU Denver (B.S. expected May 2027) focused on backend and cloud engineering. Seeking internship and full-time opportunities in software development. Brings two years of professional experience at Beeline building and testing REST APIs and containerized services, with hands-on CI/CD across US and EU deployments. Planning to pursue the Certified Kubernetes Application Developer (CKAD) certification to deepen expertise in microservices and distributed systems.
-
-## Experience
-
-### Freelance | *Shopify Developer*
-January 2026 – Present
-
-- Own a client's Shopify storefront end to end as the business owner's primary technical resource, from planning to release
-- Research user flows and build new pages to improve the shopping experience
-- Audit and remove legacy code, favoring built-in configuration over custom scripts to reduce long-term maintenance
-
-### Beeline | *Software Engineer (joined as Software Engineering Intern)*
-May 2022 – April 2024
-
-- Promoted from Software Engineering Intern to full-time Software Engineer
-- Built 4 endpoints of Beeline's public REST API that let customers' HR systems read contractor job requisitions from the Vendor Management System (VMS) and update their custom fields on them
-- Implemented request-event webhooks that notify customer integrations when batched updates finish processing in a legacy back-end service, so their systems learn about changes without polling
-- Supported CI/CD pipelines that deployed Docker-containerized API services to Azure across US and EU regions; wrote xUnit unit and integration tests for C#/.NET services and took part in code reviews
-- Diagnosed and fixed an ASP.NET Core API defect where sort and filter query parameters were silently ignored by the underlying SQL query, by attaching the Visual Studio debugger to the IIS worker process and tracing state through the request pipeline
-
-
-### Metropolitan State University of Denver | *Content Management System Migration Specialist*
-March 2021 – May 2022
-
-- Collaborated with stakeholders across all university departments to resolve content and structure gaps, optimizing navigation, clarity, and engagement
-- Created training materials and video tutorials covering content management in WordPress for staff across every university department, ensuring long-term sustainability post-migration
+Software Engineer specializing in building scalable integration APIs and cloud-based web systems using C#/.NET and Azure. Currently seeking a software engineering internship for 2027. Skilled in designing robust architectures, automating deployments, and collaborating across teams to deliver reliable, maintainable, and well-tested solutions.
 
 ## Education
 
-### Metropolitan State University of Denver | *B.S. in Computer Science* | GPA: 3.5 / 4.0
-Expected May 2027
+### Metropolitan State University of Denver | *Bachelor of Science in Computer Science*
 
-*Major: Computer Science | Minor: Mathematics*
+- **Relevant Coursework:** Data Structures and Algorithms, Software Development Methods and Tools, Networking and Distributed Systems
 
-Relevant Coursework: Software Development Methods and Tools, Networking and Distributed Computing, Computer Science Principles
+## Professional Experience
 
-## Projects
+### Beeline | *Software Engineer*
+May 2022 – Apr 2024
 
-### [badrchoubai.dev](https://badrchoubai.dev) | *Personal Websites*
-Source: [github.com/BadrChoubai/badrchoubai.dev](https://github.com/BadrChoubai/badrchoubai.dev)
+- **API Development & Architecture:** Designed and implemented an API Gateway using **C#/.NET**, consolidating multiple services into a unified access point. This reduced integration complexity, improved scalability, and streamlined testing workflows—helping the team meet quarterly delivery goals despite reduced headcount.
+- **API Gateway — Rate Limiting:** Implemented the Gateway's Rate Limiter feature, protecting downstream services from traffic spikes and ensuring consistent API availability.
+- **Performance Engineering:** Owned the performance testing strategy end-to-end, researching, building, and maintaining a load testing suite using **Grafana K6** to validate system reliability under real-world traffic conditions.
+- **Cloud Deployment & CI/CD:** Supported continuous integration and deployment pipelines, with API services containerized using **Docker** and deployed to **Azure Kubernetes Service (AKS)** for scalable, resilient delivery.
+- **RESTful Services:** Contributed to a large suite of **REST APIs** enabling clients to programmatically manage Vendor Management System (VMS) data, driving seamless **third-party integrations** and enhancing developer experience.
+- **Testing Frameworks:** Developed **unit and integration tests** with **xUnit** for C#/.NET services, strengthening overall test coverage and reliability.
+- **Identity & Access Management (IAM):** Migrated deprecated Auth0 namespaced custom claims to the updated non-namespaced model, reducing token complexity and improving security compliance.
+- **Technical Support & Reliability:** Triaged and resolved client-reported issues in **Jira**, maintaining API uptime and integration reliability within **SLA timelines**.
 
-- Consolidated three standalone sites (portfolio, bookshelf and a print-formatting tool) into one npm-workspaces monorepo with a shared Astro UI package, so header, footer and styles change across every site from one place
+### Metropolitan State University of Denver | *CMS Migration Specialist*
+Mar 2021 – May 2022
 
-## Skills & Capabilities
+- **Platform Modernization:** Led the migration of **2,000+ web pages** from a legacy CMS (TerminalFour) to **WordPress**, using automation tools.
+- **Stakeholder Coordination:** Collaborated with multiple departments to resolve content and structural gaps, optimizing for **navigation, clarity, and engagement**.
+- **Documentation & Training:** Created **training materials and video tutorials** to help staff manage WordPress content post-migration, ensuring long-term sustainability.
 
-**Technical:** REST API development (C#, ASP.NET Core) · Docker and containerized microservices · CI/CD and automated testing (Azure, xUnit) · SQL and relational databases · TypeScript / JavaScript · Astro and Cloudflare Workers · AI-assisted development (Claude Code), applied selectively
+## Skills
 
-**Soft Skills:** End-to-end ownership · Cross-functional collaboration · Clear written communication
+- **Languages:** C#, JavaScript/TypeScript, Python, Go
+- **Web Development:** HTML, CSS, JavaScript (Vue 3, Vite, TypeScript, GraphQL)
+- **Frameworks & Architecture:** ASP.NET Core, Entity Framework Core, REST API Development, Kestrel
+- **Cloud & Infrastructure:**
+  - Azure: Container Apps, Kubernetes Service, Application Insights, Event Grid, Service Bus
+  - Infrastructure as Code: Terraform, ARM, Bicep
+  - Containerization: Docker, Kubernetes, Microk8s
+- **Tools & DevOps:** Git, Azure DevOps, Team Foundation Server, Jira, Prometheus
