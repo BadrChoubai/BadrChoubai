@@ -21,8 +21,8 @@ January 2026 – Present
 May 2022 – April 2024
 
 - Promoted from Software Engineering Intern to full-time Software Engineer
-- Built the core endpoints of a public REST API that lets customers' HR systems read contractor job requisitions from Beeline's Vendor Management System (VMS) and update their own custom fields on them
-- Implemented webhooks that notify customer integrations when batched updates finish processing in a legacy back-end service, so their systems learn about changes without polling
+- Built 4 endpoints of Beeline's public REST API that let customers' HR systems read contractor job requisitions from the Vendor Management System (VMS) and update their custom fields on them
+- Implemented request-event webhooks that notify customer integrations when batched updates finish processing in a legacy back-end service, so their systems learn about changes without polling
 - Supported CI/CD pipelines that deployed Docker-containerized API services to Azure across US and EU regions; wrote xUnit unit and integration tests for C#/.NET services and took part in code reviews
 - Diagnosed and fixed an ASP.NET Core API defect where sort and filter query parameters were silently ignored by the underlying SQL query, by attaching the Visual Studio debugger to the IIS worker process and tracing state through the request pipeline
 
